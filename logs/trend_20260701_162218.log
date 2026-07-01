@@ -1,0 +1,15 @@
+2026-07-01 16:22:18,051 === Trend Rebalance [LIVE] — 2026-07-01T16:22:18.051244 ===
+2026-07-01 16:22:18,051 Fetching month-end closes from yfinance...
+2026-07-01 16:22:20,730   Signal month: 2026-06-30  (240 months of history)
+2026-07-01 16:22:20,734   In-trend sleeves (6/9): ['SPY', 'EFA', 'EEM', 'HYG', 'DBC', 'VNQ']
+2026-07-01 16:22:20,734   BIL (cash) weight: 33.3%
+2026-07-01 16:22:20,734     SPY   11.11%
+2026-07-01 16:22:20,734     EFA   11.11%
+2026-07-01 16:22:20,734     EEM   11.11%
+2026-07-01 16:22:20,734     HYG   11.11%
+2026-07-01 16:22:20,734     DBC   11.11%
+2026-07-01 16:22:20,735     VNQ   11.11%
+2026-07-01 16:22:20,735     BIL   33.33%
+2026-07-01 16:22:20,858   Connected to Alpaca paper account. Rebalancing (LIVE)...
+2026-07-01 16:22:23,498 State saved to /home/runner/work/tred_on_etfs/tred_on_etfs/data/portfolio_state.json
+2026-07-01 16:22:23,498 === Done ===
